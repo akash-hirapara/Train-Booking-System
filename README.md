@@ -1,7 +1,7 @@
 # Train Booking System Using Python
 
 This is a Simple Train Booking System..
-We can Easily Do Book Tikcets, Cancel Tickets And Check Train Status to View Available Tickets and Booked Tickets..
+We can Do Easily Book Tickets, Cancel Tickets And Check Train Status to View Available Tickets and Booked Tickets..
 ## Screenshots
 
 After Run this Code,
